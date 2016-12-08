@@ -33,7 +33,7 @@
             <item
                 android:id="@+id/nav_pdf"
                 android:icon="@android:drawable/ic_menu_edit"
-                android:title="Print CV PDF" />
+                android:title="CV PDF" />
         </menu>
     </item>
 
