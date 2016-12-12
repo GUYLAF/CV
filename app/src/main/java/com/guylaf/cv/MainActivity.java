@@ -108,6 +108,8 @@ public class MainActivity extends AppCompatActivity
             startActivity(intent);
 
         } else if (id == R.id.nav_send) {
+            Intent intent = new Intent(MainActivity.this,MailActivity.class);
+            startActivity(intent);
 
         }  else if (id == R.id.nav_pdf) {
             Intent intent = new Intent(MainActivity.this,PdfActivity.class);

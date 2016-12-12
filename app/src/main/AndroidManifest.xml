@@ -34,7 +34,8 @@
         <activity android:name=".PdfActivity" />
         <activity android:name=".EducationActivity" />
         <activity android:name=".SkillActivity" />
-        <activity android:name=".CallActivity"></activity>
+        <activity android:name=".CallActivity" />
+        <activity android:name=".MailActivity"></activity>
     </application>
 
 </manifest>

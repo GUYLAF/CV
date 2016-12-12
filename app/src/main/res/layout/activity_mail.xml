@@ -24,13 +24,13 @@
         android:layout_height="73dp"
         android:gravity="center"
         android:textSize="30dp"
-        android:text="call me at 06......"
+        android:text="Write to me at @ ......"
         tools:layout_marginStart="50dp" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="101dp"
-        android:background="@android:drawable/ic_menu_call"
+        android:background="@android:drawable/sym_action_email"
         android:elevation="0dp"
         android:visibility="visible"
         android:textAlignment="center"
